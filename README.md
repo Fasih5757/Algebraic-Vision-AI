@@ -166,7 +166,7 @@ http://localhost:3000
 
 # 🎥 Demo Video
 
-Click here to watch the demo video
+[Click here to watch the demo video](https://drive.google.com/file/d/1K5Xd4SrvzuduvNffEbZTlqpzVzxERasN/view?usp=sharing)
 
 ---
 
