@@ -263,6 +263,8 @@ https://github.com/Fasih5757
 
 # 📜 License
 
-This project is developed for educational, research, and learning purposes.
+## License
 
-Feel free to fork, modify, and contribute.
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+Copyright © 2026 Fasih Ud Din
